@@ -11,21 +11,21 @@ body {
             max-width: 900px;
             margin: 0 auto;
             padding: 20px;
-          }
-
-          .container div {
+ }
+          
+.container div {
             padding: 10px;
             font-size: 30px;
             text-align: center;
             margin: auto;
           }
 
-          body {
+body {
             margin: 0;
             padding: 0;
           }
 
-          h1 {
+h1 {
             font-size: 48px !important;
             color: #044a85 !important;
             text-align: center;
@@ -34,20 +34,41 @@ body {
             padding: 0;
           }
 
-          p {
+p {
             padding: 20px 0;
             font-size: 20px;
             color: rgb(28, 28, 28);
           }
 
-          .divider {
+.divider {
             width: 100vw;
             height: 12px;
             background-color: #044a85;
             margin: 10px 0;
           }
 
-          li {
+li {
                font-size: 15px;
           }
 
+h1 {
+            text-align: center;
+            color:#044a85;
+        }
+
+p {
+            text-align: center;
+        }
+
+body{
+
+        }
+
+.row {
+            display: flex;
+        }
+
+.column {
+             flex: 33.33%;
+             padding: 5px;
+        }
