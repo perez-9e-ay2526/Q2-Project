@@ -25,20 +25,6 @@ body {
             padding: 0;
           }
 
-h1 {
-            font-size: 48px !important;
-            color: #044a85 !important;
-            text-align: center;
-            margin-top: 40px !important;
-            margin-bottom: 40px !important;
-            padding: 0;
-          }
-
-p {
-            padding: 20px 0;
-            font-size: 20px;
-            color: rgb(28, 28, 28);
-          }
 
 .divider {
             width: 100vw;
@@ -51,10 +37,6 @@ li {
                font-size: 15px;
           }
 
-h1 {
-            text-align: center;
-            color:#044a85;
-        }
 
 p {
             text-align: center;
