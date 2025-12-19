@@ -74,8 +74,6 @@ body{
         }
 
 body {
-
-       background-image: url("obmc.png");
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
