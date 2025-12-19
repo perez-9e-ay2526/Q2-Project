@@ -14,7 +14,7 @@
     <style>
         h1 {
             text-align: center;
-            color: #044a85;
+            color:#044a85;
         }
 
         p {
@@ -24,8 +24,17 @@
         body{
 
         }
+
+        .row {
+            display: flex;
+        }
+
+        .column {
+             flex: 33.33%;
+             padding: 5px;
+        }
     </style>
-    
+
 </head>
 <body>
     
@@ -57,7 +66,7 @@
 
     </nav>
     
- <div class="container-fluid mt-3">
+    <div class="container-fluid mt-3">
 
             <div class="container p-5 mt-3 text-dark" id="HOME">
 
@@ -74,6 +83,20 @@
             </div>
     </div>
 
+    <div class="row">
+
+        <div class="column">
+            <img src="casa.webp" alt="Casa" style="width:100%">
+        </div>
+    
+        <div class="column">
+            <img src="intermed.webp" alt="Intermediate" style="width:100%">
+        </div>
+        
+        <div class="column">
+            <img src="hs.webp" alt="Highschool" style="width:100%">
+        </div>
+    </div>
 </body>
 
     <!-- FOOTER -->
@@ -85,6 +108,7 @@
 </footer>
     
 </html>
+
 
 
 
