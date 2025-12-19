@@ -3,15 +3,6 @@ body {
     font-family:"Josefin Sans", sans-serif;
     color: black;
 }
-
- .container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 40px;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
- }
           
 body {
             margin: 0;
