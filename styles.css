@@ -72,3 +72,30 @@ body{
              flex: 33.33%;
              padding: 5px;
         }
+
+body {
+
+       background-image: url("obmc.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+}
+
+form {
+
+      background-color:#FFF8E8;
+      width: 40%;
+     padding: 20px;
+     border-radius: 10px;
+      margin: auto;
+    
+}
+       
+.divider {width: 100vw;
+            height: 12px;
+            background-color: #044a85;
+            margin: 10px 0;
+        
+         }
+
